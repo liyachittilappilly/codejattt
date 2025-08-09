@@ -58,13 +58,7 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *System architecture showing the Flask backend processing requests through various computer vision models*
 
-For Hardware:
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Hardware setup diagram showing camera connections and processing units*
 
-![Schematic](Add your schematic diagram here)
-*Detailed schematic of the image processing pipeline*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -88,8 +82,7 @@ For Hardware:
 
 ## Team Contributions
 - [Team Lead Name]: Conceptualized the tiger theme, designed the UI/UX, implemented Flask backend
-- [Team Member 2]: Developed computer vision algorithms for barcode and bristle detection
-- [Team Member 3]: Implemented real-time camera functionality and rain detection system
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

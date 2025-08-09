@@ -1,5 +1,6 @@
-setuptools>=70
-wheel>=0.42
+pip>=24
+setuptools>=69
+wheel
 Flask==2.3.3
 opencv-python==4.8.1.78
 numpy==1.24.3

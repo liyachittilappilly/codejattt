@@ -4,9 +4,7 @@
 ### Team Name: CODE JATT
 
 ### Team Members
-- Team Lead: [Your Name] - [Your College]
-- Member 2: [Team Member Name] - [Their College]
-- Member 3: [Team Member Name] - [Their College]
+- Team Lead: Liya S Chittilappilly - Vidya Academy of Science and Technology
 
 ### Project Description
 A powerful computer vision platform that brings Tiger-style precision to image and video analysis. The hub processes visual data with deadly accuracy, detecting everything from abs to raindrops with the ferocity of a tiger on the hunt.
@@ -45,7 +43,9 @@ python app.py
 ### Project Documentation
 For Software:
 # Screenshots
-![Screenshot1](Add screenshot 1 here with proper name)
+
+<img src="Screenshot 2025-08-09 200930.png" width="500">
+
 *Main dashboard showing all seven computer vision projects with tiger-themed styling*
 
 ![Screenshot2](Add screenshot 2 here with proper name)

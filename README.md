@@ -46,42 +46,7 @@ For Software:
 
 <img src="Screenshot 2025-08-09 200930.png" width="500">
 
-*Main dashboard showing all seven computer vision projects with tiger-themed styling*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Abs Detector in action, analyzing a user's physique with deadly accuracy*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Real-time eye detection through the camera feed, tracking every movement like a predator*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*System architecture showing the Flask backend processing requests through various computer vision models*
-
-
-
-# Build Photos
-![Components](Add photo of your components here)
-*Server setup with high-performance GPU for accelerated processing*
-
-![Build](Add photos of build process here)
-*Step-by-step build process: 1. Setting up the environment 2. Installing dependencies 3. Configuring models*
-
-![Final](Add photo of final product here)
-*Final Tiger Vision Hub interface with all seven computer vision tools ready for action*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Demonstration of all seven computer vision tools in action, showcasing the speed and accuracy of the system*
-
-# Additional Demos
-[Add any extra demo materials/links]
-- Live demo available at: [Your Demo Link]
-- API documentation: [Your API Docs Link]
-
-## Team Contributions
-- [Team Lead Name]: Conceptualized the tiger theme, designed the UI/UX, implemented Flask backend
 
 
 ---

@@ -11,7 +11,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 1. Abs Blaster (Abs Detector)
 ![Abs Detector](https://i.pinimg.com/1200x/b2/4b/d3/b24bd3f2b0c3817ed95fe8035b05d906.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Advanced AI system that detects the presence of abdominal muscles in images, classifying them as "Abs" or "No Abs" with confidence scores.
 
 **Technical Implementation**:
@@ -27,7 +27,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 2. Barcode Breaker (Barcode Counter)
 ![Barcode Counter](https://barcode-test.com/wp-content/uploads/2015/05/Flexo-with-Fat-Bars.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Precisely counts the number of lines in barcode images using advanced image processing techniques.
 
 **Technical Implementation**:
@@ -43,7 +43,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 3. Eye Spy (Eye Counter)
 ![Eye Counter](https://i.pinimg.com/736x/ac/66/26/ac66261160b201e5406686c358c48f86.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Detects and counts eyes in both uploaded images and real-time camera feeds using MediaPipe Face Mesh.
 
 **Technical Implementation**:
@@ -59,7 +59,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 4. Cat Boss Counter (Cat Head Counter)
 ![Cat Head Counter](https://i.pinimg.com/736x/f0/ca/6b/f0ca6b24c54cfcb7a6e160239895ed0a.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Detects cats in images and counts the number of heads using YOLOv8 and advanced contour analysis.
 
 **Technical Implementation**:
@@ -75,7 +75,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 5. Bubble Smash (Bubble Counter)
 ![Bubble Counter](https://i.pinimg.com/1200x/65/15/96/651596694df46ca0ec89e39415ed6299.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Counts bubbles in images using multiple thresholding techniques and circularity analysis.
 
 **Technical Implementation**:
@@ -91,7 +91,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 6. Bristle Buster (Bristle Counter)
 ![Bristle Counter](https://i.pinimg.com/736x/3d/b5/24/3db5241121df55878dd802ef840958f0.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Counts bristles in brush images using edge detection and line analysis.
 
 **Technical Implementation**:
@@ -107,7 +107,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 7. BAAGHI Movie Rain Counter (Rain Detector)
 ![Rain Detector](https://i.pinimg.com/736x/86/8b/52/868b52614c4d50b0d0c3d73602d3d396.jpg)
-
+  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
 **Description**: Detects and counts rain events in videos using background subtraction and temporal analysis.
 
 **Technical Implementation**:

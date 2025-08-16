@@ -11,7 +11,7 @@ Code Jatt Tiger Vision Hub is a comprehensive computer vision web application bu
 
 ### 1. Abs Blaster (Abs Detector)
 ![Abs Detector](https://i.pinimg.com/1200x/b2/4b/d3/b24bd3f2b0c3817ed95fe8035b05d906.jpg)
-  <img src="Screenshot 2025-06-06 163756.png" alt="Demo Screenshot" width="500"/>
+  <img src="Screenshot 2025-08-09 201414.png" alt="Demo Screenshot" width="500"/>
 **Description**: Advanced AI system that detects the presence of abdominal muscles in images, classifying them as "Abs" or "No Abs" with confidence scores.
 
 **Technical Implementation**:
